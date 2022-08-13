@@ -1,0 +1,110 @@
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\obj\Debug\netcoreapp3.1\chinook.AssemblyInfoInputs.cache
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\obj\Debug\netcoreapp3.1\chinook.AssemblyInfo.cs
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\obj\Debug\netcoreapp3.1\chinook.csproj.CoreCompileInputs.cache
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\chinook.exe
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\chinook.deps.json
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\chinook.runtimeconfig.json
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\chinook.runtimeconfig.dev.json
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\chinook.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\chinook.pdb
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\obj\Debug\netcoreapp3.1\chinook.csproj.CopyComplete
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\obj\Debug\netcoreapp3.1\chinook.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\obj\Debug\netcoreapp3.1\chinook.pdb
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\obj\Debug\netcoreapp3.1\chinook.genruntimeconfig.cache
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\obj\Debug\netcoreapp3.1\chinook.csproj.AssemblyReference.cache
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A9\A24-Chinook-skeleton\obj\Debug\netcoreapp3.1\chinook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\chinook.exe
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\chinook.deps.json
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\chinook.runtimeconfig.json
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\chinook.runtimeconfig.dev.json
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\chinook.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\chinook.pdb
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\obj\Debug\netcoreapp3.1\chinook.csproj.AssemblyReference.cache
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\obj\Debug\netcoreapp3.1\chinook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\obj\Debug\netcoreapp3.1\chinook.AssemblyInfoInputs.cache
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\obj\Debug\netcoreapp3.1\chinook.AssemblyInfo.cs
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\obj\Debug\netcoreapp3.1\chinook.csproj.CoreCompileInputs.cache
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\obj\Debug\netcoreapp3.1\chinook.csproj.CopyComplete
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\obj\Debug\netcoreapp3.1\chinook.dll
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\obj\Debug\netcoreapp3.1\chinook.pdb
+C:\Users\Gaok1\Documents\GitHub\FluentDynamicQueryChinook\obj\Debug\netcoreapp3.1\chinook.genruntimeconfig.cache
